@@ -1,6 +1,6 @@
-package controllers
+package com.jmengxy.kotserver.controllers
 
-import models.Greeting
+import com.jmengxy.kotserver.models.Greeting
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestParam
 import org.springframework.web.bind.annotation.RestController
